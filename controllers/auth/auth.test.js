@@ -1,5 +1,4 @@
 const axios = require("axios");
-const ctrl = require("../controllers/auth");
 
 describe("Login function", () => {
   test("the data is peanut butter", async () => {
